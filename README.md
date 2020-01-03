@@ -1,0 +1,1 @@
+# Predicting-the-Potential-for-Solar-Energy-Based-on-Location
