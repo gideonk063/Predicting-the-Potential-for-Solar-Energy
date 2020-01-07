@@ -1,4 +1,4 @@
-# Predicting-the-Potential-for-Solar-Energy-Based-on-Location
+# Predicting the Potential for Solar Energy Based on Location
 ## Gideon Karasek
 ### Overview
 In this project, I will be attempting to predict the percent of houses that are considered suitable for solar energy in a given census-tract. 
